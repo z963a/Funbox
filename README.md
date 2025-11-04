@@ -15,3 +15,20 @@ Each paddle hit increases the ball speed slightly — test your reflexes and cha
 - Gradual speed-up after each paddle hit  
 - Simple white-on-black retro design  
 - Two-player local battle mode 
+
+## 💣 Kaboom [minesweeper.py]
+
+A minimalist **Minesweeper** clone built with Pygame.  
+Click to reveal, flag the mines, and pray you don’t go *KABOOM!* 💥
+
+🎮 **Controls**
+- Left Click: Reveal a cell  
+- Right Click: Flag a suspected mine  
+- Step on a mine → Game Over
+
+✨ **Features**
+- 10x10 grid with 10 random mines  
+- Recursive empty-cell reveal  
+- Clean black-gray aesthetic  
+- Built purely with Python and Pygame
+
