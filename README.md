@@ -1,7 +1,7 @@
 # Funbox
 🎮 A box full of tiny, fun, and sometimes useful programs — coding should be playful.
 <p align="center">
-  <img src="./assets/funbox.png" width="380"/>
+  <img src="./funbox.png" width="380"/>
 </p>
 # Games
 ## 🏓 SpeedPong [table_tannis.py]
